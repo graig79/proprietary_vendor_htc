@@ -317,7 +317,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
     vendor/lge/g4-common/proprietary/lib64/libawb_calibration.so:system/lib64/libawb_calibration.so \
     vendor/lge/g4-common/proprietary/lib/hw/camera.vendor.msm8994.so:system/lib/hw/camera.vendor.msm8994.so \
-    vendor/lge/g4-common/proprietary/lib/hw/camera.msm8992.so:system/lib/hw/camera.msm8992.so \
     vendor/lge/g4-common/proprietary/lib/libawb_calibration.so:system/lib/libawb_calibration.so \
     vendor/lge/g4-common/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
     vendor/lge/g4-common/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
